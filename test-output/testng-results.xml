@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22285" started-at="2019-12-31T23:21:25 IST" finished-at="2019-12-31T23:21:47 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22285" started-at="2019-12-31T23:21:25 IST" finished-at="2019-12-31T23:21:47 IST">
+      <class name="newtours.demoaut.com.JavaClasses.LoginClass">
+        <test-method status="PASS" signature="setSystemProperty()[pri:0, instance:newtours.demoaut.com.JavaClasses.LoginClass@4e9ba398]" name="setSystemProperty" is-config="true" duration-ms="17" started-at="2019-12-31T23:21:25 IST" finished-at="2019-12-31T23:21:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setSystemProperty -->
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:newtours.demoaut.com.JavaClasses.LoginClass@4e9ba398]" name="startBrowser" duration-ms="12303" started-at="2019-12-31T23:21:25 IST" finished-at="2019-12-31T23:21:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="verifyLoginfunctionality()[pri:0, instance:newtours.demoaut.com.JavaClasses.LoginClass@4e9ba398]" name="verifyLoginfunctionality" duration-ms="9207" started-at="2019-12-31T23:21:37 IST" finished-at="2019-12-31T23:21:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginfunctionality -->
+        <test-method status="PASS" signature="tearBrowser()[pri:0, instance:newtours.demoaut.com.JavaClasses.LoginClass@4e9ba398]" name="tearBrowser" is-config="true" duration-ms="705" started-at="2019-12-31T23:21:46 IST" finished-at="2019-12-31T23:21:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearBrowser -->
+      </class> <!-- newtours.demoaut.com.JavaClasses.LoginClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
